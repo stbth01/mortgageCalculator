@@ -1,3 +1,10 @@
+"""
+Brian Hunscher
+Created: 12/8/2016
+
+"""
+
+
 import argparse
 
 def monthlyPayment(LoanAmount, InterestRate, LengthYrs):
